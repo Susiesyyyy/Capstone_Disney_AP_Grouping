@@ -1,2 +1,0 @@
-source_id	Passtype	use_time	usage_status_desc
-4364	Diamond	2019-12-24 082948.657	Admission Ticket
