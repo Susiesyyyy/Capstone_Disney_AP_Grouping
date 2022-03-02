@@ -1,0 +1,2 @@
+source_id	Passtype	Age	MerchSpendLevel	is_renewal	year	month	visit_times
+5361	Gold	Adult	<1K	0	2020	11	1
