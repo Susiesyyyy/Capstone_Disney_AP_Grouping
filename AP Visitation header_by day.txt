@@ -1,0 +1,2 @@
+source_id	Passtype	Age	MerchSpendLevel	is_renewal	use_time
+5361	Gold	Adult	<1K	0	2020-11-06 12:01:37.917
