@@ -4,4 +4,6 @@ This is a folder for NYUSH - NYU Stern DABC Master's Program's capstone. As a st
 
 It includes some coding files and the data they used. 
 
-1. Network Model. https://colab.research.google.com/drive/1J6JTl4eqQnpdgAZhtKj93ScSrVuGffFa#scrollTo=szS-L8DIJGFY This file uses visitation data to build a network among the AP users. Then, the result from network is vailded by WeChat grouping result.
+1. WeChat group. This file uses AP expired data to group the users which are binded on the same Wechat account.
+2. Network model. https://colab.research.google.com/drive/1J6JTl4eqQnpdgAZhtKj93ScSrVuGffFa#scrollTo=szS-L8DIJGFY This file uses visitation data to build a network among the AP users. Then, the result from network is vailded by WeChat grouping result.
+3. Hierarchical clustering. This file uses two kinds of clustering method to cluster the AP users by their Passtype and visitation time.
